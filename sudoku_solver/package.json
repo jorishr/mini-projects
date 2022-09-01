@@ -1,0 +1,12 @@
+{
+  "name": "sudoku",
+  "version": "1.0.0",
+  "description": "Sudoku solver in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/index.js"
+  },
+  "author": "Joris Raymaekers <joris@liondigits.com> (liondigits.com)",
+  "license": "ISC"
+}
